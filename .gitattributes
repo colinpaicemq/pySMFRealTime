@@ -1,0 +1,3 @@
+* text zos-working-tree-encoding=ISO8859-1
+*.sh text zos-working-tree-encoding=ISO885901
+.gitconfig text zos-working-tree-encoding=UTF-8
